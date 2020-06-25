@@ -14,8 +14,6 @@
                                         {{\Str::plural('reply', $thread->replies_count)}}
                                     </span>
                                 </a>
-
-
                             </div>
                         </div>
                         <div class="card-body">
